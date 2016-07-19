@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ef-workspace version="1.0">
+	<information>
+		<name>t</name>
+		<version>1.0</version>
+		<author>作者</author>
+		<description>说明</description>
+		<ActivatedProject>t</ActivatedProject>
+	</information>
+
+	<setting>
+	</setting>
+
+	<projects>
+		<project name="t" file="t.efp" description="" explain="" />
+	</projects>
+
+</ef-workspace>

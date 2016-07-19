@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ef-project version="1.0">
+    <information>
+        <name>t</name>
+        <version>1.0</version>
+        <author>作者</author>
+        <explain>说明</explain>
+        <description>备注</description>
+    </information>
+    <setting>
+        <type>gui_runable</type>
+        <out>t.exe</out>
+        <ecl-name>t</ecl-name>
+        <main-class>启动类</main-class>
+    </setting>
+    <depends />
+    <source-files>
+        <source-file file="t.ef" breakpoints="" bookmarks="" />
+        <source-file file="t窗口.ef" breakpoints="" bookmarks="" />
+        <source-file file="t窗口.efm" breakpoints="" bookmarks="" />
+    </source-files>
+</ef-project>
