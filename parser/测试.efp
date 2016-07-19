@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ef-project version="1.0">
+    <information>
+        <name>测试</name>
+        <version>1.0</version>
+        <author>作者</author>
+        <explain>说明</explain>
+        <description>备注</description>
+    </information>
+    <setting>
+        <type>runable</type>
+        <out>测试.exe</out>
+        <ecl-name>测试</ecl-name>
+        <main-class>启动类</main-class>
+    </setting>
+    <source-files>
+        <source-file file="测试.ef" breakpoints="" bookmarks="" />
+    </source-files>
+</ef-project>

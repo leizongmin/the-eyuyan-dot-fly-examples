@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ef-workspace version="1.0">
+    <information>
+        <name>测试</name>
+        <version>1.0</version>
+        <author>作者</author>
+        <description>说明</description>
+        <ActivatedProject>测试</ActivatedProject>
+    </information>
+    <setting />
+    <projects>
+        <project name="测试" file="C:/Documents and Settings/a/桌面/词法分析-测试/测试/测试.efp" />
+    </projects>
+</ef-workspace>
